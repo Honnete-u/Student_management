@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1793174866269,
+      "name": "Ingabire Umugisha Honnête",
+      "email": "ingabireumugishahonnete2@gmail.com",
+      "password": "6dd7f6fc4b3fa9e8b7e613da8b756620:c4ce21c8acb93ab9577febe20df8aae8cd7ec803e6bedadf1328dc17fd5b82acdc43f705521d2814ceb1dadf0b747f18bbdab85b0cb4e717d4202d8d0bb359d8"
+    }
+  ],
+  "students": [
+    {
+      "id": "STU-001",
+      "name": "ISHIMWE Herve",
+      "email": "herveishimwe1@gmail.com",
+      "phone": "0796854035",
+      "grade": "Grade 12",
+      "marks": {
+        "Mathematics": 89,
+        "English": 99,
+        "Science": 97,
+        "Social Studies": 98
+      },
+      "createdAt": "2026-10-28T08:09:04.635Z"
+    },
+    {
+      "id": "STU-002",
+      "name": "HIRWA Vanella",
+      "email": "vanella@gmail.com",
+      "phone": "0788887993",
+      "grade": "Grade 12",
+      "marks": {
+        "Mathematics": 67,
+        "English": 98,
+        "Science": 59,
+        "Social Studies": 71
+      },
+      "createdAt": "2026-10-29T06:57:03.301Z"
+    }
+  ]
+}
